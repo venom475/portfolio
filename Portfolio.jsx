@@ -82,7 +82,7 @@ const Portfolio = () => {
       <main className="container mx-auto py-10 px-4 md:px-0 flex-grow">
         <section id="about" className="mb-16 flex flex-col md:flex-row items-center md:items-start space-y-6 md:space-y-0 md:space-x-10">
           <img
-            src="8de4cb2f-7acf-43a1-995b-64d03d8025ad.jpeg"
+            src="/portfolio/8de4cb2f-7acf-43a1-995b-64d03d8025ad.jpeg"
             alt="Akhil Pandey"
             className="rounded-full w-36 h-36 object-cover shadow-lg"
           />
